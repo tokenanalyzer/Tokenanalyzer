@@ -1,0 +1,24 @@
+import requests
+
+def fetch_token_data():
+    solana_pair_address = "A8nPhp...k7VC"  # Official Trump Pair Address (Solana)
+    url = f"https://api.dexscreener.com/latest/dex/pairs/solana/{solana_pair_address}"
+
+    response = requests.get(url)
+    if response.status_code == 200:
+        data = response.json()
+        print("🔍 API Status Code:", response.status_code)
+        print("📊 API Response:", data)
+
+        pair = data.get("pairs", [])
+        if pair:
+            return pair[0]  # Return first pair data
+        else:
+            print("❌ Error: No valid token data found.")
+            return None
+    else:
+        print("❌ API Request Failed! Status Code:", response.status_code)
+        return None
+
+# Run function and print data
+print(fetch_token_data())
