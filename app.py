@@ -3,15 +3,13 @@ import os
 
 app = Flask(__name__)
 
-KEY = "c8a59a8e935f8abb56afb73e0d02b2"
-
 @app.route("/")
 def home():
     return "TokenAnalyzer Live"
 
 @app.route("/validation-key.txt")
-def key():
-    return Response(KEY, mimetype="text/plain")
+def validate():
+    return Response("c8a59a8e935f8abb56afb73e0d02b2", mimetype="text/plain")
 
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 10000))
