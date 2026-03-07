@@ -1,23 +1,16 @@
-from flask import Flask
+from flask import Flask, Response
 
 app = Flask(__name__)
 
 VALIDATION_KEY = "c8a59a8e935f8abb56afb73e0d02b2"
 
-# Home route
 @app.route("/")
 def home():
-    return "TokenAnalyzer is running successfully"
+    return "TokenAnalyzer Live"
 
-# Validation file for Pi
 @app.route("/validation-key.txt")
 def validation():
-    return VALIDATION_KEY
-
-# Health check (Render ke liye useful)
-@app.route("/health")
-def health():
-    return {"status": "ok"}
+    return Response(VALIDATION_KEY, mimetype="text/plain")
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=10000)
