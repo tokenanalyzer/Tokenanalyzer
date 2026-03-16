@@ -10,7 +10,7 @@ def home():
 def validation():
     return Response(
         "c8a59a8e935f8abb56afb73e0d02b2",
-        mimetype="text/plain"
+        content_type="text/plain"
     )
 
 if __name__ == "__main__":
