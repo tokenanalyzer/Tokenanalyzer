@@ -1,38 +1,68 @@
-# ⚡ Welcome to the Command Center of @tokenanalyzer (Adil Husain)
+# 🚀 Adil Husain
 
-> **"Elite Security Researcher | Cloud Infrastructure Architect | AI-Driven Bounty Hunter"**
+### Founder of S_A_H Ecosystem
 
-I am a specialized developer and bug bounty hunter focused on building advanced security tools, automating workflows, and deploying high-performance cloud applications. I build the machines that find the bugs.
+AI Builder • Security Researcher • Bug Bounty Hunter • Automation Developer
 
-### 🛡️ What I Do
-- 🕵️ **Security Research:** Hunting vulnerabilities in Web/Mobile apps (APIs, IDORs, Logic Flaws).
-- 🤖 **AI & Automation:** Building **S_A-H Infinity Sentinel** (An advanced AI-powered security auditing framework) and autonomous Telegram Python Bots.
-- ⛓️ **Web3 & Crypto:** Developing Node.js tools for the Solana ecosystem, Pi Network integrations, and sniper bots.
-- ☁️ **Cloud Ops:** Mastering mobile-first deployment pipelines via Termux to Vercel/GitHub.
+Building AI-powered security tools, automation platforms, crypto analytics systems, and mobile-first applications.
 
 ---
 
-### 💻 My Tech Stack & Arsenal
-**Languages:** Python | JavaScript | Node.js | HTML/CSS | Bash
-**Tools & Environment:** Termux | Vercel | Firebase | Git/GitHub | Monaco Editor
-**AI Integrations:** Gemini | Groq | SambaNova Llama
+# 🛡️ Security & Bug Bounty
+
+- Web Application Security Testing
+- API Security Assessment
+- IDOR Discovery & Authorization Testing
+- Business Logic Analysis
+- PoC Development
+- AI-Assisted Security Research
+- Bug Bounty Workflow Automation
 
 ---
 
-### 🚀 Featured Architectures
-* **S_A-H (Infinity Sentinel):** A custom-built, multi-AI interface for automated code auditing, PoC generation, and vulnerability scanning.
-* **Node Manager V3:** Advanced Telegram bot utilizing `telebot` and AI APIs for task automation and APK analysis.
-* **Neuro-Gaming Frameworks:** Researching and building 3D game engines leveraging psychological reward mechanics and dopamine triggers.
+# 🔥 Featured Projects
+
+### S_A_H Ultimate
+AI-powered bug bounty learning and security workflow platform.
+
+### SahPocMaker
+Proof-of-Concept generation and vulnerability reporting assistant.
+
+### GhostHub
+Security research and automation toolkit.
+
+### TokenAnalyzer
+Crypto risk analysis and monitoring system.
+
+### Nexa AI
+AI content creation and productivity platform.
 
 ---
 
-### 📫 Let's Connect / Collaborate
-Always open to discussing Bug Bounty strategies, App Architecture, or Cloud Deployments.
-- 📧 **Email:** adilcryptonews@gmail.com
-- 🎯 **Status:** Focusing on finding Low-Hanging Fruits and High-Impact Logic Flaws.
+# ⚙️ Tech Stack
 
-<br/>
+Python • TypeScript • JavaScript • Firebase • Node.js • GitHub • Termux
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tokenanalyzer&color=ff0055&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
+---
+
+# 🤖 AI Stack
+
+Gemini • Groq • SambaNova • OpenAI
+
+---
+
+# 🎯 Current Focus
+
+✅ Bug Bounty Hunting
+
+✅ Security Research
+
+✅ AI Security Tools
+
+✅ S_A_H Ecosystem
+
+✅ Mobile-First Development
+
+---
+
+📧 adilcryptonews@gmail.com
